@@ -1,0 +1,2 @@
+# click.gopaysense
+subdomain takeover
